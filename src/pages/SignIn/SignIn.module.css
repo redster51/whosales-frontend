@@ -1,0 +1,21 @@
+.loginForm {
+    max-width: 300px;
+}
+.loginFormForgot {
+    float: right;
+}
+.antColRtl .loginFormForgot {
+    float: left;
+}
+.loginFormButton {
+    width: 100%;
+}
+
+.formContainer {
+    padding: 50px 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

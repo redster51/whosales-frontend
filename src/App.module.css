@@ -1,0 +1,6 @@
+.content {
+    padding: 0 50px;
+    margin-top: 64px;
+    min-height: calc(100vh - 64px - 120px);
+    background-color: white;
+}
